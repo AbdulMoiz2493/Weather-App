@@ -16,7 +16,7 @@ This project is a simple web application that demonstrates the use of HTML, CSS,
 1. **Clone the repository**:
     Open your terminal and run the following command to clone the repository to your local machine:
     ```
-    git clone <repository-url>
+    git clone <[repository-url](https://github.com/AbdulMoiz2493/Weather-App)>
     ```
 
 2. **Navigate to the project directory**:
